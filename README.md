@@ -32,10 +32,7 @@ Your users should be able to:
 ### Screenshot
 #### My solution:
 ![](./images/solution.png)
-#### Hover states:
-![](./images/hover-states.png)
-#### Mobile view:
-![](./images/mobile-view.png)
+![](./images/hover-mobile.png)
 
 ### Links
 
